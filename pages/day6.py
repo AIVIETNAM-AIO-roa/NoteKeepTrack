@@ -50,7 +50,7 @@ st.markdown("---")
 tab1, tab2 = st.tabs(["📊 Tổng quan về Prompt Engineering", "📝 Prompt Technique"])
 
 with tab1:
-    st.header("Mục 1: Các tham số cài đặt mô hình (LLM Settings)")
+    st.header("Các tham số cài đặt mô hình (LLM Settings)")
     st.markdown("""
     Việc tinh chỉnh tham số là bước không thể thiếu để kiểm soát đầu ra của LLM sao cho phù hợp với từng loại bài toán.
     """)
